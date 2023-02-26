@@ -22,7 +22,6 @@ Below is an example starting cellular matrix consisting of 10 rows and 20 column
 ----+-++-------+---+
 
 
-
 Directions:
 Develop a program capable of accepting the following command line arguments:
 
@@ -140,3 +139,5 @@ normally would be considered running serially, in other words on a single thread
 multithreading using the multiprocessing module in Python will result in your solution being treated as entirely
 incorrect.
 
+
+Note: Please refer pdf file for these matrices, .md has formatting problems I can't solve. 
